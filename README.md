@@ -11,5 +11,5 @@ Sou desenvolvedor iniciante em formação, focado em criar projetos práticos pa
 Em breve adicionarei meus projetos aqui, com documentação completa.
 
 ## 🔗 Contato
-- LinkedIn: https://linkedin.com/in/SEUUSUARIO
-- GitHub: https://github.com/SEUUSUARIO
+- LinkedIn: https://www.linkedin.com/in/lucas-albuquerque-504452262/?trk=opento_sprofile_topcard
+- GitHub: https://github.com/Lual-querque
