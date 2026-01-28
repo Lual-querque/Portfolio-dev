@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Albuquerque
+# Lucas Albuquerque
 
 Bem-vindo ao meu portfólio de projetos gerais envolvendo programação.
 
